@@ -1,5 +1,6 @@
 # mobile application with media items
 
+*deutsch:*
 Diese Anwendung ermöglicht es, neue Media-Elemente zur Datenbank hinzuzufügen, sie zu lesen, zu bearbeiten und zu löschen. Die wichtigsten Funktionen der Anwendung umfassen:
 
 Hinzufügen von Media-Elementen: Neue Media-Elemente können in die Datenbank eingefügt werden.
@@ -11,7 +12,7 @@ Zusätzlich bietet die Anwendung eine Ansichtsfunktion:
 View-Ansicht: Beim Klicken auf ein Media-Element wird eine detaillierte Ansicht des Elements angezeigt.
 Die CRUD-Operationen (Create, Read, Update, Delete) sind sowohl lokal als auch remote über MongoDB möglich.
 
-English:
+*english:*
 This application allows you to add new media items to the database, read, edit, and delete them. The main features of the application include:
 
 Adding Media Items: New media items can be inserted into the database.
@@ -22,6 +23,8 @@ Additionally, the application offers a view feature:
 
 View Mode: Clicking on a media item displays a detailed view of the item.
 CRUD operations (Create, Read, Update, Delete) are possible both locally and remotely via MongoDB.
+
+# Ansicht / View
 
 <img width="585" alt="Bildschirmfoto 2024-06-24 um 14 57 29" src="https://github.com/JanBerlin06/mobile-application-for-media-entities/assets/122086059/99559307-239e-4d7d-86fd-2e8a3b0f4482">
 
