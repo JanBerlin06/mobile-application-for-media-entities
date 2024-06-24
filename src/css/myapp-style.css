@@ -1,0 +1,24 @@
+/* TODO: add any application specific styling here */
+header h1 {
+    text-transform: uppercase;
+}
+
+#myapp-mediaReadview main img {
+    width: 100%;
+}
+
+.mwf-view-component h2 {
+    text-transform: none;
+}
+
+footer {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+} 
+
+footer p {
+    font-size: small;
+    padding-left: 1em;
+} 

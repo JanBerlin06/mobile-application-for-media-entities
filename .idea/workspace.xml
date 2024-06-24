@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bf97fa0-0694-4dd8-8ffd-ad18506eae4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../esa1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../esa1/.idea/esa1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../esa1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../esa1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../project-ima Kopie/mwf/mwf.api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-application-for-media-entities/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-application-for-media-entities/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/add_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/arrow_left_alt_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/arrow_right_alt_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/close_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/content_paste_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/content_paste_go_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/delete_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/done_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/edit_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/grid_view_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/link_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/list_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/local_laundry_service_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/location_on_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/login_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/logout_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/map_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/menu_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/mic_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/mic_off_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/more_vert_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/photo_album_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/photo_camera_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/play_arrow_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/play_circle_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/save_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/settings_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/sync_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../css/img/png/tag_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/listitems.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../htm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../js/jsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../js/jsr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../js/lib/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../publish/webserver.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hm4ib1iVxH3QTGNq87qWk53cpd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.ListviewViewController.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/jandietrich/vfh/04semester/internet_an_mob/project-ima-Kopie/mwf/mobile.Anwendung.app.skeleton",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.externalTools",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf97fa0-0694-4dd8-8ffd-ad18506eae4c" name="Changes" comment="" />
+      <created>1718186046978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718186046978</updated>
+      <workItem from="1718186048043" duration="67000" />
+      <workItem from="1718186721040" duration="107000" />
+      <workItem from="1718186854977" duration="1126000" />
+      <workItem from="1718188085807" duration="1208000" />
+      <workItem from="1718189633932" duration="762000" />
+      <workItem from="1718190757807" duration="730000" />
+      <workItem from="1718192847297" duration="219000" />
+      <workItem from="1718193133868" duration="840000" />
+      <workItem from="1718193993850" duration="401000" />
+      <workItem from="1719233563722" duration="525000" />
+      <workItem from="1719234294391" duration="1156000" />
+      <workItem from="1719235658401" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
